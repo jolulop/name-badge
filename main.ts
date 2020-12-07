@@ -1,0 +1,11 @@
+basic.forever(function () {
+    basic.showString("Loki Lopez")
+    basic.showIcon(IconNames.Ghost)
+    basic.pause(2000)
+    basic.clearScreen()
+    basic.showString("ballena")
+    basic.clearScreen()
+    basic.showIcon(IconNames.Snake)
+    basic.pause(2000)
+    basic.clearScreen()
+})
